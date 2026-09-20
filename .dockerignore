@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.git/
+.superpowers/
+UserBehavior.csv
+*.csv
+outputs/*
+!outputs/.gitkeep
+!outputs/figures/.gitkeep

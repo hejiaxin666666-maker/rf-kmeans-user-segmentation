@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+.npm-cache/
+.venv/
+venv/
+env/
+UserBehavior.csv
+*.csv
+outputs/*
+!outputs/.gitkeep
+!outputs/figures/.gitkeep
+.superpowers/
